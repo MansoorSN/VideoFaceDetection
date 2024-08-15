@@ -58,6 +58,7 @@ if __name__ == '__main__':
     pf=PotraitFace(r"yolov8n-face.pt")
     
     st.title("Video Face Detection")
+    st.subheader("Upload mp4 video and get all the faces in it")
 
     upload_file=st.file_uploader( "Choose a mp4 file", type=['mp4'],accept_multiple_files=False)
     

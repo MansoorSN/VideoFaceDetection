@@ -105,7 +105,7 @@ if __name__ == '__main__':
             st.write(f"Time taken to extract faces: {round((end_time-start_time)/60,2)} minutes")
             st.stop()
         else:
-            st.write("Please upload a video of upto only 2 minutes duration")
+            st.write("Please upload a video of upto only 5 minutes duration")
             
     else:
             st.write("Please upload a new file or a different file.")

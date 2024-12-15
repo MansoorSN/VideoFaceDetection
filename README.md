@@ -3,3 +3,6 @@
 https://videofacedetection.streamlit.app/
 
 Upload a mp4 video of upto 1 minutes and get all the faces in the video as a ZIP file.
+
+
+*This App has been developed for academic and learning purposes only.
